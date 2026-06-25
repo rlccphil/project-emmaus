@@ -2,33 +2,33 @@
 
 > Helping shepherds walk with people until they recognize Jesus.
 
-Project Emmaus is an AI-assisted pastoral companion designed to help shepherds care for people intentionally, prayerfully, and relationally in the way of Jesus.
+## Vision
 
-Emmaus is not a church management system.
+Project Emmaus is an AI-assisted pastoral companion for Real Life Christian Communities.
 
-Planning Center remains the source of truth.
+Its purpose is not to replace shepherding, but to help pastors know people, pray for them, care for them, and lead them toward Jesus more faithfully.
 
-Emmaus exists to help shepherds:
+Planning Center Online remains the source of truth.
 
-- Know people
-- Pray for people
-- Encourage people
-- Shepherd people
-- Develop disciples
-- Form other shepherds
+Emmaus provides pastoral workflows built around the rhythms of:
 
-## Guiding Principle
-
-Technology should never replace the work of a shepherd.
-
-Emmaus exists to help shepherds know people, pray for them, care for them, and lead them toward Jesus more faithfully.
+- Following Jesus Together
+- Harvest Workers
+- Daily Shepherding
+- Leadership Formation
 
 ## Current Status
 
-Version 0.1
+Version 0.1.0
 
-Goals
+### Completed
 
-- Connect to Planning Center API
-- Retrieve Members Who Need Visitation
-- Email the first ten members each weekday# project-emmaus
+- Connected to Planning Center API
+- Retrieved "Members Who Need Visitation"
+- Displayed members successfully in Google Apps Script
+
+## Next Milestone
+
+- Display the first 10 members
+- Generate a Daily Harvest Workers Brief
+- Email the daily shepherding list
