@@ -1,35 +1,21 @@
-# Roadmap
+# Emmaus Roadmap
 
-## Version 0.1
-
+## v0.1.0
 - Connect to Planning Center
 - Retrieve visitation list
-- Send daily email
 
-## Version 0.2
+## v0.2.0
+- Show first 10 members
+- Daily Harvest Workers Brief
 
+## v0.3.0
+- Email automation
+
+## v0.4.0
 - Prayer prompts
 
-## Version 0.3
-
-- Suggested Scripture
-
-## Version 0.4
-
+## v0.5.0
 - AI-generated encouragement
 
-## Version 0.5
-
-- Follow-up tracking
-
-## Version 1.0
-
+## v1.0
 - Shepherd Dashboard
-
-## Future
-
-- Circle Leader support
-- Intern coaching
-- Prayer journal
-- Leadership formation
-- Integration with Following Jesus Together
